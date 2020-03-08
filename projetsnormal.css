@@ -1,0 +1,36 @@
+
+
+
+h1, h2 {
+  color: rgba(46, 161, 11, 1);
+  text-decoration: underline overline rgba(46, 161, 11, 1);
+  background-color: black;
+  border: 2px solid rgba(46, 161, 11, 1);
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+p, li , ul{
+    color: black;
+    font-family: "Comic Sans MS";
+    background-color: rgba(46, 161, 11, 1);
+    border: 2px solid black;
+}
+
+li {
+  list-style-type: none;
+}
+
+
+strong {
+  color: gold;
+}
+
+
+body {
+  background-image: url("ordi.jpg");
+}

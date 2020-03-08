@@ -1,0 +1,40 @@
+background {
+	color: blue;
+}
+
+span {
+	color: black;
+}
+
+h1, h2 {
+  color: rgb(198, 22, 22);
+  text-decoration: underline overline red;
+  background-color: rgba(46, 161, 11, 1);
+  border: 2px solid black;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+p, li {
+    color: rgb(46, 161, 11);
+    font-family: "Comic Sans MS";
+    background-color: rgba(198, 22, 22, 1);
+    border: 2px solid black;
+}
+
+li {
+  list-style-type: none;
+}
+
+
+strong {
+  color: darkblue;
+}
+
+
+body {
+  background-image: url("tenor.gif");
+}
